@@ -1,0 +1,13 @@
+2024-01-16 23:53:05.356 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'registerIssueDataProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-01-16 23:53:05.414 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/usr/share/sddm/themes/corners/theme.conf","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2024-01-16 23:53:05.734 [info] Started local extension host with pid 20139.
+2024-01-16 23:53:05.800 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2024-01-16 23:53:05.877 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-01-16 23:53:05.878 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-01-16 23:53:05.879 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-01-16 23:53:05.879 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-01-16 23:53:05.879 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-01-16 23:53:05.879 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-01-16 23:53:05.880 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2024-01-16 23:53:08.537 [info] [perf] Render performance baseline is 142ms
+2024-01-16 23:53:09.054 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.

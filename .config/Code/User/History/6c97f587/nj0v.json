@@ -1,0 +1,107 @@
+{
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "workbench.statusBar.visible": false,
+    "workbench.list.smoothScrolling": true,
+    "workbench.iconTheme": "vscode-icons",
+
+    "window.menuBarVisibility": "toggle",
+
+
+    "security.workspace.trust.untrustedFiles": "newWindow",
+    "security.workspace.trust.startupPrompt": "always",
+    "security.workspace.trust.enabled": false,
+
+
+
+    "editor.scrollbar.vertical": "hidden",
+    "editor.scrollbar.verticalScrollbarSize": 0,
+    "editor.minimap.side": "right",
+    "editor.fontFamily": "'Maple Mono', 'monospace', 'Hack Nerd Font'",
+    "editor.cursorSurroundingLines": 15,
+    "editor.cursorStyle": "underline",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorBlinking": "phase",
+    "editor.smoothScrolling": true,
+    "editor.fontVariations": false,
+    "editor.lineHeight": 0,
+    "editor.fontSize": 15,
+    
+    "extensions.autoUpdate": true,
+
+    "terminal.external.linuxExec": "kitty",
+    "terminal.explorerKind": "both",
+    "terminal.sourceControlRepositoriesKind": "both",
+    "terminal.integrated.fontFamily": "Hack Nerd Font",
+
+    "telemetry.telemetryLevel": "off",
+
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.runInTerminal": true,
+
+    "explorer.confirmDelete": true,
+
+    "debug.console.fontFamily": "Hack Nerd Font",
+    "debug.onTaskErrors": "abort",
+
+    "notebook.output.fontFamily": "Hack Nerd Font",
+
+    "chat.editor.fontFamily": "Hack Nerd Font",
+
+    "background.fullscreen": {
+      "images": [],
+      "opacity": 0.91,
+      "size": "cover",
+      "position": "center",
+      "interval": 0
+    },
+    "git.openRepositoryInParentFolders": "never",
+   
+    "terminal.integrated.fontSize": 15,
+    "explorer.confirmDragAndDrop": false,
+
+    "git.suggestSmartCommit": true,
+    "git.autofetch": true,
+
+    
+    "cmake.configureOnOpen": true,
+    "cmake.options.statusBarVisibility": "icon",
+    "cmake.options.advanced": {
+      "build": {
+        "statusBarVisibility": "visible"
+      },
+      "launch": {
+        "statusBarVisibility": "visible"
+      },
+      "debug": {
+        "statusBarVisibility": "visible"
+      }
+    },
+
+
+    "C_Cpp.intelliSenseEngine": "disabled",
+    "http.proxyAuthorization": null,
+    "c-cpp-flylint.cppcheck.addons": [],
+    "c-cpp-flylint.cppcheck.enable": false,
+    "c-cpp-flylint.flawfinder.enable": false,
+    "c-cpp-flylint.enable": false,
+    "c-cpp-flylint.flexelint.enable": false,
+    "c-cpp-flylint.lizard.enable": false,
+    "c-cpp-flylint.clang.noRtti": true,
+    "c-cpp-flylint.clang.language": "",
+    "c-cpp-flylint.clang.msExtensions": true,
+    "c-cpp-flylint.clang.noExceptions": true,
+    "c-cpp-flylint.clang.pedantic": true,
+    "c-cpp-flylint.clang.pedanticErrors": true,
+    "clang-format.fallbackStyle": "Google",
+    "clang-format.language.apex.enable": false,
+    "clang-format.language.cuda.enable": false,
+    "clang-format.language.glsl.enable": false,
+    "clang-format.language.objective-c.enable": false,
+    "clang-format.language.proto.enable": false,
+    "clang-format.language.typescript.enable": false,
+    "[cpp]": {
+      "editor.defaultFormatter": "xaver.clang-format"
+    },
+    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 0}",
+
+  }

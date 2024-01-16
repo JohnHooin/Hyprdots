@@ -1,0 +1,9 @@
+2024/01/16-22:43:55.987 246c5 Reusing MANIFEST /home/jinsoin/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/01/16-22:43:55.987 246c5 Recovering log #4
+2024/01/16-22:43:55.987 246c5 Reusing old log /home/jinsoin/.config/discord/Local Storage/leveldb/000004.log 
+2024/01/16-22:47:37.625 24abe Level-0 table #8: started
+2024/01/16-22:47:37.643 24abe Level-0 table #8: 2803042 bytes OK
+2024/01/16-22:47:37.648 24abe Delete type=0 #4
+2024/01/16-23:29:50.810 27322 Level-0 table #10: started
+2024/01/16-23:29:50.821 27322 Level-0 table #10: 713255 bytes OK
+2024/01/16-23:29:50.826 27322 Delete type=0 #7

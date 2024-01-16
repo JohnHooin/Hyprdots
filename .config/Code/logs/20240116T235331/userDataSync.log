@@ -1,0 +1,10 @@
+2024-01-16 23:53:32.358 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2024-01-16 23:53:32.358 [info] Auto Sync is enabled.
+2024-01-16 23:53:32.358 [info] Auto Sync: Suspended until auth token is available.
+2024-01-16 23:53:32.625 [info] Deleting non existing profile from backup /home/jinsoin/.config/Code/User/sync/extensions
+2024-01-16 23:53:32.646 [info] Deleting non existing profile from backup /home/jinsoin/.config/Code/User/sync/globalState
+2024-01-16 23:53:32.647 [info] Deleting non existing profile from backup /home/jinsoin/.config/Code/User/sync/keybindings
+2024-01-16 23:53:32.649 [info] Deleting non existing profile from backup /home/jinsoin/.config/Code/User/sync/profiles
+2024-01-16 23:53:32.650 [info] Deleting non existing profile from backup /home/jinsoin/.config/Code/User/sync/settings
+2024-01-16 23:53:32.651 [info] Deleting non existing profile from backup /home/jinsoin/.config/Code/User/sync/snippets
+2024-01-16 23:53:32.651 [info] Deleting non existing profile from backup /home/jinsoin/.config/Code/User/sync/tasks

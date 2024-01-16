@@ -1,0 +1,48 @@
+[INFO  Tue 16 Jan 2024 07:34:23 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:162: Executing installer for Package(name=lua-language-server) version="latest"
+[INFO  Tue 16 Jan 2024 07:34:23 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:162: Executing installer for Package(name=css-lsp) version="latest"
+[INFO  Tue 16 Jan 2024 07:34:23 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:162: Executing installer for Package(name=html-lsp) version="latest"
+[INFO  Tue 16 Jan 2024 07:34:23 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:162: Executing installer for Package(name=typescript-language-server) version="latest"
+[INFO  Tue 16 Jan 2024 07:34:26 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:162: Executing installer for Package(name=pyright) version="latest"
+[ERROR Tue 16 Jan 2024 07:34:26 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:192: Installation failed for Package(name=css-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Tue 16 Jan 2024 07:34:26 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:162: Executing installer for Package(name=bash-language-server) version="latest"
+[ERROR Tue 16 Jan 2024 07:34:26 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:192: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Tue 16 Jan 2024 07:34:26 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:162: Executing installer for Package(name=json-lsp) version="latest"
+[ERROR Tue 16 Jan 2024 07:34:26 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:192: Installation failed for Package(name=html-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Tue 16 Jan 2024 07:34:38 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:162: Executing installer for Package(name=yaml-language-server) version="latest"
+[ERROR Tue 16 Jan 2024 07:34:38 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:192: Installation failed for Package(name=pyright) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Tue 16 Jan 2024 07:34:38 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:162: Executing installer for Package(name=clangd) version="latest"
+[ERROR Tue 16 Jan 2024 07:34:38 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:192: Installation failed for Package(name=bash-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Tue 16 Jan 2024 07:34:38 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:162: Executing installer for Package(name=tailwindcss-language-server) version="latest"
+[ERROR Tue 16 Jan 2024 07:34:38 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:192: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Tue 16 Jan 2024 07:34:46 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:162: Executing installer for Package(name=stylua) version="latest"
+[ERROR Tue 16 Jan 2024 07:34:46 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:192: Installation failed for Package(name=yaml-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Tue 16 Jan 2024 07:34:46 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:162: Executing installer for Package(name=markdownlint) version="latest"
+[ERROR Tue 16 Jan 2024 07:34:46 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:192: Installation failed for Package(name=tailwindcss-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Tue 16 Jan 2024 07:34:46 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:162: Executing installer for Package(name=cpplint) version="latest"
+[ERROR Tue 16 Jan 2024 07:34:46 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:192: Installation failed for Package(name=markdownlint) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Tue 16 Jan 2024 07:34:46 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:162: Executing installer for Package(name=clang-format) version="latest"
+[INFO  Tue 16 Jan 2024 07:34:46 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:185: Installation succeeded for Package(name=lua-language-server)
+[INFO  Tue 16 Jan 2024 07:34:56 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:185: Installation succeeded for Package(name=stylua)
+[INFO  Tue 16 Jan 2024 07:35:02 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:185: Installation succeeded for Package(name=clangd)
+[INFO  Tue 16 Jan 2024 07:35:16 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:185: Installation succeeded for Package(name=cpplint)
+[INFO  Tue 16 Jan 2024 07:35:17 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:185: Installation succeeded for Package(name=clang-format)
+[INFO  Tue 16 Jan 2024 07:36:43 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:162: Executing installer for Package(name=css-lsp) version="latest"
+[INFO  Tue 16 Jan 2024 07:36:43 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:162: Executing installer for Package(name=html-lsp) version="latest"
+[INFO  Tue 16 Jan 2024 07:36:43 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:162: Executing installer for Package(name=typescript-language-server) version="latest"
+[INFO  Tue 16 Jan 2024 07:36:43 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:162: Executing installer for Package(name=pyright) version="latest"
+[INFO  Tue 16 Jan 2024 07:36:44 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:162: Executing installer for Package(name=bash-language-server) version="latest"
+[ERROR Tue 16 Jan 2024 07:36:44 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:192: Installation failed for Package(name=css-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Tue 16 Jan 2024 07:36:44 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:162: Executing installer for Package(name=json-lsp) version="latest"
+[ERROR Tue 16 Jan 2024 07:36:44 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:192: Installation failed for Package(name=html-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Tue 16 Jan 2024 07:36:44 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:162: Executing installer for Package(name=yaml-language-server) version="latest"
+[ERROR Tue 16 Jan 2024 07:36:44 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:192: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Tue 16 Jan 2024 07:36:44 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:162: Executing installer for Package(name=tailwindcss-language-server) version="latest"
+[ERROR Tue 16 Jan 2024 07:36:44 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:192: Installation failed for Package(name=pyright) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Tue 16 Jan 2024 07:36:53 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:162: Executing installer for Package(name=markdownlint) version="latest"
+[ERROR Tue 16 Jan 2024 07:36:53 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:192: Installation failed for Package(name=bash-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Tue 16 Jan 2024 07:36:53 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:192: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Tue 16 Jan 2024 07:36:53 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:192: Installation failed for Package(name=yaml-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Tue 16 Jan 2024 07:36:53 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:192: Installation failed for Package(name=tailwindcss-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Tue 16 Jan 2024 07:36:55 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:192: Installation failed for Package(name=markdownlint) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Tue 16 Jan 2024 07:37:30 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:162: Executing installer for Package(name=cpptools) version="latest"
+[INFO  Tue 16 Jan 2024 07:37:40 PM +07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:185: Installation succeeded for Package(name=cpptools)

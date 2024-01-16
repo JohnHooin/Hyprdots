@@ -1,0 +1,37 @@
+2024-01-16 23:53:05.895 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2024-01-16 23:53:05.895 [info] Auto Sync is enabled.
+2024-01-16 23:53:05.895 [info] Auto Sync: Suspended until auth token is available.
+2024-01-16 23:53:06.170 [info] Deleting non existing profile from backup /home/jinsoin/.config/Code/User/sync/extensions
+2024-01-16 23:53:06.289 [info] Deleting non existing profile from backup /home/jinsoin/.config/Code/User/sync/globalState
+2024-01-16 23:53:06.431 [info] Deleting non existing profile from backup /home/jinsoin/.config/Code/User/sync/keybindings
+2024-01-16 23:53:06.567 [info] Deleting non existing profile from backup /home/jinsoin/.config/Code/User/sync/profiles
+2024-01-16 23:53:06.701 [info] Deleting non existing profile from backup /home/jinsoin/.config/Code/User/sync/settings
+2024-01-16 23:53:06.705 [info] Deleting non existing profile from backup /home/jinsoin/.config/Code/User/sync/snippets
+2024-01-16 23:53:06.706 [info] Deleting non existing profile from backup /home/jinsoin/.config/Code/User/sync/tasks
+2024-01-16 23:53:06.868 [info] Auto Sync: Triggered by Interval
+2024-01-16 23:53:06.869 [info] Sync started.
+2024-01-16 23:53:07.195 [info] Settings: Last sync resource does not exist locally.
+2024-01-16 23:53:07.298 [info] Settings: No changes found during synchronizing settings.
+2024-01-16 23:53:07.302 [info] Keybindings: Last sync resource does not exist locally.
+2024-01-16 23:53:07.377 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-01-16 23:53:07.378 [info] Snippets: Last sync resource does not exist locally.
+2024-01-16 23:53:07.453 [info] Snippets: No changes found during synchronizing snippets.
+2024-01-16 23:53:07.454 [info] Tasks: Last sync resource does not exist locally.
+2024-01-16 23:53:07.525 [info] Tasks: No changes found during synchronizing tasks.
+2024-01-16 23:53:07.526 [info] GlobalState: Last sync resource does not exist locally.
+2024-01-16 23:53:07.770 [info] GlobalState: No changes found during synchronizing ui state.
+2024-01-16 23:53:07.770 [info] Extensions: Last sync resource does not exist locally.
+2024-01-16 23:53:07.897 [info] Extensions: No changes found during synchronizing extensions.
+2024-01-16 23:53:07.898 [info] Profiles: Last sync resource does not exist locally.
+2024-01-16 23:53:07.974 [info] Profiles: No changes found during synchronizing profiles.
+2024-01-16 23:53:07.976 [info] Sync done. Took 1107ms
+2024-01-16 23:53:21.285 [info] Auto Sync: Triggered by Activity
+2024-01-16 23:53:21.286 [info] Sync started.
+2024-01-16 23:53:21.373 [info] Settings: No changes found during synchronizing settings.
+2024-01-16 23:53:21.375 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-01-16 23:53:21.377 [info] Snippets: No changes found during synchronizing snippets.
+2024-01-16 23:53:21.378 [info] Tasks: No changes found during synchronizing tasks.
+2024-01-16 23:53:21.382 [info] GlobalState: No changes found during synchronizing ui state.
+2024-01-16 23:53:21.434 [info] Extensions: No changes found during synchronizing extensions.
+2024-01-16 23:53:21.436 [info] Profiles: No changes found during synchronizing profiles.
+2024-01-16 23:53:21.438 [info] Sync done. Took 152ms

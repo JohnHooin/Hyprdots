@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/jinsoin/.config/config.ini" added="2024-01-16T10:20:33.756000Z" modified="2024-01-16T10:20:33.756000Z" visited="2024-01-16T10:20:33.756000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="/usr/bin/code --unity-launch %F %u" modified="2024-01-16T10:20:33.756000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jinsoin/.config/gammastep/config.ini" added="2024-01-16T10:20:42.247000Z" modified="2024-01-16T10:20:42.247000Z" visited="2024-01-16T10:20:42.247000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="/usr/bin/code --unity-launch %F %u" modified="2024-01-16T10:20:42.247000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jinsoin/Downloads/idea-bulb-icon.svg" added="2024-01-16T12:56:47.556108Z" modified="2024-01-16T12:56:48.574000Z" visited="2024-01-16T12:56:48.574000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/svg+xml"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-01-16T12:56:47.556110Z" count="1"/>
+          <bookmark:application name="" exec="dolphin %u" modified="2024-01-16T12:56:48.574000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jinsoin/Downloads/background-gruvbox-2.png" added="2024-01-16T13:58:35.609274Z" modified="2024-01-16T13:58:35.609281Z" visited="2024-01-16T13:58:35.609275Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-01-16T13:58:35.609276Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jinsoin/Downloads/background-gruvbox.png" added="2024-01-16T13:58:40.435444Z" modified="2024-01-16T13:58:40.435447Z" visited="2024-01-16T13:58:40.435444Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-01-16T13:58:40.435445Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jinsoin/Downloads/config.conf" added="2024-01-16T13:58:45.648176Z" modified="2024-01-16T13:58:45.648179Z" visited="2024-01-16T13:58:45.648177Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-01-16T13:58:45.648178Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jinsoin/Downloads/zathurarc" added="2024-01-16T14:27:48.400240Z" modified="2024-01-16T14:27:49.659000Z" visited="2024-01-16T14:27:49.659000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-01-16T14:27:48.400243Z" count="1"/>
+          <bookmark:application name="" exec="dolphin %u" modified="2024-01-16T14:27:49.659000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jinsoin/Downloads/Gray-Hat-Hacking-The-Ethical-Hackers-Handbook-by-Allen-Harper.pdf" added="2024-01-16T14:33:28.453243Z" modified="2024-01-16T14:39:09.223000Z" visited="2024-01-16T14:39:09.223000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-01-16T14:33:28.453246Z" count="1"/>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u %u" modified="2024-01-16T14:38:01.362000Z" count="5"/>
+          <bookmark:application name="org.pwmt.zathura-pdf-poppler" exec="zathura %U %u" modified="2024-01-16T14:39:09.223000Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jinsoin/Downloads/Dark+.theme.css" added="2024-01-16T15:39:37.305028Z" modified="2024-01-16T15:39:54.713000Z" visited="2024-01-16T15:39:54.713000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-01-16T15:39:37.305031Z" count="1"/>
+          <bookmark:application name="" exec="dolphin %u" modified="2024-01-16T15:39:38.801000Z" count="1"/>
+          <bookmark:application name="code" exec="/usr/bin/code --unity-launch %F %u" modified="2024-01-16T15:39:54.713000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jinsoin/.config/Vencord/themes" added="2024-01-16T15:40:37.672000Z" modified="2024-01-16T15:40:37.672000Z" visited="2024-01-16T15:40:37.672000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="" exec="dolphin %u" modified="2024-01-16T15:40:37.672000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jinsoin/.config/Vencord/themes/Dark+.theme.css" added="2024-01-16T15:40:58.118000Z" modified="2024-01-16T15:40:58.118000Z" visited="2024-01-16T15:40:58.118000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="/usr/bin/code --unity-launch %F %u" modified="2024-01-16T15:40:58.118000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jinsoin/.config/nvim" added="2024-01-16T16:09:23.132216Z" modified="2024-01-16T16:09:23.132223Z" visited="2024-01-16T16:09:23.132218Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-16T16:09:23.132220Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jinsoin/.config/session/dolphin_dolphin_dolphin" added="2024-01-16T16:24:43.672000Z" modified="2024-01-16T16:24:44.945000Z" visited="2024-01-16T16:24:44.945000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-mpl2"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="/usr/bin/code --unity-launch %F %u" modified="2024-01-16T16:24:44.945000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jinsoin/.config/xsettingsd/xsettingsd.conf" added="2024-01-16T16:25:30.206000Z" modified="2024-01-16T16:25:30.206000Z" visited="2024-01-16T16:25:30.206000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="/usr/bin/code --unity-launch %F %u" modified="2024-01-16T16:25:30.206000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jinsoin/Downloads/gudBG-20240116T163156Z-001.zip" added="2024-01-16T16:32:16.664918Z" modified="2024-01-16T16:32:33.897000Z" visited="2024-01-16T16:32:33.897000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-01-16T16:32:16.664926Z" count="1"/>
+          <bookmark:application name="" exec="dolphin %u" modified="2024-01-16T16:32:20.189000Z" count="1"/>
+          <bookmark:application name="org.kde.ark" exec="ark %U %u" modified="2024-01-16T16:32:33.897000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jinsoin" added="2024-01-16T16:32:37.232000Z" modified="2024-01-16T16:32:37.232000Z" visited="2024-01-16T16:32:37.232000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.ark" exec="ark %U %u" modified="2024-01-16T16:32:37.232000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/sddm/themes/corners/theme.conf" added="2024-01-16T16:53:03.682000Z" modified="2024-01-16T16:53:30.990000Z" visited="2024-01-16T16:53:30.990000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="/usr/bin/code --unity-launch %F %u" modified="2024-01-16T16:53:30.990000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jinsoin/Downloads/IMG_9222.JPG" added="2024-01-16T16:55:39.787084Z" modified="2024-01-16T16:55:39.787097Z" visited="2024-01-16T16:55:39.787088Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-01-16T16:55:39.787091Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
